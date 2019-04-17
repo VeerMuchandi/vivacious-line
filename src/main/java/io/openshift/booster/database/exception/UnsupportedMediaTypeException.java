@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package io.openshift.booster.exception;
+package io.openshift.booster.database.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

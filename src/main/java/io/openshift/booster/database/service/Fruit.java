@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package io.openshift.booster.service;
+package io.openshift.booster.database.service;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
