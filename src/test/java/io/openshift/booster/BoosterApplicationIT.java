@@ -23,8 +23,8 @@ import static org.hamcrest.CoreMatchers.not;
 import static org.hamcrest.Matchers.isEmptyString;
 import static org.junit.Assert.assertFalse;
 
-import io.openshift.booster.service.Fruit;
-import io.openshift.booster.service.FruitRepository;
+import io.openshift.booster.database.service.Fruit;
+import io.openshift.booster.database.service.FruitRepository;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.specification.RequestSpecification;
